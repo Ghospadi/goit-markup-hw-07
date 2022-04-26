@@ -5,7 +5,6 @@
 .features__title {
   margin-bottom: 10px;
   color: $main-color;
-
   font-weight: 700;
   line-height: 1.14;
   text-transform: uppercase;
@@ -23,7 +22,6 @@
 .features__box {
   @include flexcenter;
   justify-content: center;
-
   margin-bottom: 30px;
   padding: 25px 0;
   background-color: $background-color-white;

@@ -10,13 +10,10 @@
 .socmedia__link {
   @include flexcenter;
   justify-content: center;
-
   width: 44px;
   height: 44px;
   border-radius: 50%;
-
   fill: $icon-color;
-
   transition: fill $trans-duration $timing-func,
     background-color $trans-duration $timing-func;
 

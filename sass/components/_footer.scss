@@ -24,7 +24,6 @@
   color: $white-color-trnsp;
   text-decoration: none;
   margin-top: 9px;
-
   transition: color $trans-duration $timing-func;
 
   &:hover,
@@ -64,7 +63,6 @@
 
   &::placeholder {
     color: rgba(255, 255, 255, 0.6);
-
     font-family: Roboto;
     font-style: normal;
     font-weight: 400;
@@ -82,22 +80,18 @@
   padding: 0;
   padding-left: 28px;
   padding-right: 28px;
-
   display: inline-flex;
   align-items: center;
-
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
-
   color: $white-color;
   background: $hover-color;
   border-color: transparent;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
-
   transition: background-color $trans-duration $timing-func;
 
   &:hover,
