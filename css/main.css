@@ -402,11 +402,11 @@ img {
   line-height: 1.2;
 }
 
-.logo span {
+.logo .span {
   color: #212121;
 }
 
-.logo--light span {
+.logo--light .span {
   color: #ffffff;
 }
 
